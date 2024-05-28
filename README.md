@@ -1,6 +1,6 @@
 # Student: Inga Miller
 # Module 4: Streaming-04-multiple-consumers
-# Date" May 24, 2024
+# Date: May 24, 2024
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
